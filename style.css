@@ -1,7 +1,7 @@
 @charset "UTF-8";
 /* CSS Document */
 @import url('https://fonts.googleapis.com/css2?family=Fredoka+One&display=swap');
-@import url('https://fonts.googleapis.com/css2?family=Lilita+One&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Bowlby+One+SC&display=swap');
 @font-face {
     font-family: 'Subtlecurves';
     src: url('_new-webfont.woff2') format('woff2'),
@@ -39,7 +39,7 @@ body{
 
 
 .navbar ul{
-    font-family: 'Subtlecurves', 'Lilita One', cursive;
+    font-family: 'Subtlecurves', 'Bowlby One SC', cursive;
     font-size: 23px;
     list-style: none;
     display: flex;
@@ -175,7 +175,7 @@ body{
   padding: 8px 8px 8px 32px;
   text-decoration: none;
   font-size: 25px;
-  font-family: 'Subtlecurves', 'Lilita One', cursive;
+  font-family: 'Subtlecurves', 'Bowlby One SC', cursive;
   color: white;
   display: block;
   transition: 0.3s;
@@ -215,7 +215,7 @@ header{
 header h1{
     margin: 0 0 0 0;
     padding: 20px 0 10px 0px;
-    font-family: 'Subtlecurves', 'Lilita One', cursive;
+    font-family: 'Subtlecurves', 'Bowlby One SC', cursive;
     font-size: 50px;
     color: white;
     transform: matrix3d(1, -0.04, 0, 0, -0.1, 1, 0, 0, 0, 0, 1, 0, 0, 0, 0, 1);
@@ -247,7 +247,7 @@ header h1{
 
 .titlesection{
     color: #1c1c1c;
-    font-family: 'Subtlecurves', 'Lilita One', cursive;
+    font-family: 'Subtlecurves', 'Bowlby One SC', cursive;
     font-size: ;
     font-size: 60px;
     margin-left: 51px;
@@ -285,7 +285,7 @@ header h1{
     top: 133px;
     left: 153px;
     font-size: 30px;
-    font-family: 'Subtlecurves', 'Lilita One', cursive;
+    font-family: 'Subtlecurves', 'Bowlby One SC', cursive;
     font-size: 30px;
     color: white;
     text-shadow: 1px 2px 2px #000000c7;
