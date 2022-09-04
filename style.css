@@ -300,7 +300,7 @@ header h1{
 
 .produit::before{
     position: absolute;
-    content: url(img/info.png);
+    content: url(info.png);
     opacity: 0.5;
     scale: 0.04;
     height: 0;
